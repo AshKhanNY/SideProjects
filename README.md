@@ -1,1 +1,2 @@
-# Side Projects and some problems on Leetcode.
+# Side Projects
+Includes LeetCode problems (just functions) and Java projects.
